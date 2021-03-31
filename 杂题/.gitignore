@@ -1,0 +1,9 @@
+# clion
+cmake-build-debug/
+.idea
+
+# git
+.git/
+
+# cmake
+build/
